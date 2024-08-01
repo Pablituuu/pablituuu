@@ -1,12 +1,10 @@
 # pablituuu
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I finished my studies at UTP (Universidad Tecnologica del Peru)(https://www.utp.edu.pe/).
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am very passionate about programming and development.
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
-
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **pablito.silvainca@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
